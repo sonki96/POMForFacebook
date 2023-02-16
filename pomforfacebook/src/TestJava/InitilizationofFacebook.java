@@ -29,10 +29,10 @@ public class InitilizationofFacebook extends BaseClass{
 	}
 	
 	
-	@AfterClass
-	public void teardownbrowser() {
-	driver.quit();
-	}
+	//@AfterClass
+	//public void teardownbrowser() {
+	//driver.quit();
+	//}
 	
 	
 }
